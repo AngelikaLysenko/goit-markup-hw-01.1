@@ -3,4 +3,4 @@ repo
 https://github.com/AngelikaLysenko/goit-markup-hw-01.1/
 
 gh-page
-https://angelikalysenko.github.io/goit-markup-hw-01.1/
+file:///C:/Users/alysenk/Documents/GitHub/goit-markup-hw-01.1/index.html
